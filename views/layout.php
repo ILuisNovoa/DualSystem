@@ -33,7 +33,7 @@
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="#">Inicio</a>
+        <a class="nav-link" href="#">Inicios</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Solicitudes</a>
